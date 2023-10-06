@@ -1,5 +1,5 @@
 ---
-title: Brickcell NTC Temperature | MakeCode Microbit
+title: 003 - Brickcell NTC Temperature | MakeCode Microbit
 url: /2023/10/01/brickcell_ntc_temperature/
 author: George Bantique
 series:

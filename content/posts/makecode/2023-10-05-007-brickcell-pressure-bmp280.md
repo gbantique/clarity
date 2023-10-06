@@ -1,5 +1,5 @@
 ---
-title: Brickcell Pressure BMP280 | MakeCode Microbit
+title: 007 - Brickcell Pressure BMP280 | MakeCode Microbit
 url: /2023/10/05/brickcell_pressure_bmp280/
 author: George Bantique
 series:

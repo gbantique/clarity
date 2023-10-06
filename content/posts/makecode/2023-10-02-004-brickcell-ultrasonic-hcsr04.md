@@ -1,5 +1,5 @@
 ---
-title: Brickcell Ultrasonic HCSR04 | MakeCode Microbit
+title: 004 - Brickcell Ultrasonic HCSR04 | MakeCode Microbit
 url: /2023/10/02/brickcell_ultrasonic_hcsr04/
 author: George Bantique
 series:

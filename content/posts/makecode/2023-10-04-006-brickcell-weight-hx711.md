@@ -1,5 +1,5 @@
 ---
-title: Brickcell Weight HX711 | MakeCode Microbit
+title: 006 - Brickcell Weight HX711 | MakeCode Microbit
 url: /2023/10/04/brickcell_weight_hx711/
 author: George Bantique
 series:

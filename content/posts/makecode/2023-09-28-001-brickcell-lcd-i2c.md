@@ -1,5 +1,5 @@
 ---
-title: Brickcell LCD I2C | MakeCode Microbit
+title: 001 - Brickcell LCD I2C | MakeCode Microbit
 url: /2023/09/28/brickcell_fine_dust/
 author: George Bantique
 series:

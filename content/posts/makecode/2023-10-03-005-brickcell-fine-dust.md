@@ -1,13 +1,13 @@
 ---
 title: Brickcell Fine Dust | MakeCode Microbit
-url: /2023/10/02/brickcell_fine_dust/
+url: /2023/10/03/brickcell_fine_dust/
 author: George Bantique
 series:
   - MakeCode, Microbit, Brickcell
 categories:
   - MakeCode
   - microbit
-date: '2023-10-02T10:47:00+08:00'
+date: '2023-10-03T10:47:00+08:00'
 tags:
   - MakeCode
   - microbit

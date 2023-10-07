@@ -63,6 +63,12 @@ basic.forever(function () {
 })
 ```
 
+**Or you make a copy of my created project in your MakeCode workspace.**
+
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:S99804-43252-03249-82467" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+
+[https://makecode.microbit.org/S99804-43252-03249-82467/](https://makecode.microbit.org/S99804-43252-03249-82467/)
+
 ## **Expected Result**
 
 If you carefully follow the provided instruction above, you should be able to view a text character displayed in first line, the word "Brickell" and on the second line is counter value that increases every 1000 milliseconds.

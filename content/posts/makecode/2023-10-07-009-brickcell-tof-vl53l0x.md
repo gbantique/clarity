@@ -7,7 +7,7 @@ series:
 categories:
   - MakeCode
   - microbit
-date: '2023-10-07T16:00:00+08:00'
+date: '2023-10-07T08:00:00+08:00'
 tags:
   - MakeCode
   - microbit
@@ -52,6 +52,12 @@ basic.forever(() => {
 })
 ```
 7. Open a Serial Monitor such as Termite terminal app [https://www.compuphase.com/software_termite.htm/](https://www.compuphase.com/software_termite.htm/). Set the baud rate to 115200 bps.
+
+**Or you make a copy of my created project in your MakeCode workspace.**
+
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:S74063-86293-22694-21219" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+
+[https://makecode.microbit.org/S74063-86293-22694-21219/](https://makecode.microbit.org/S74063-86293-22694-21219/)
 
 ## **Expected Result**
 

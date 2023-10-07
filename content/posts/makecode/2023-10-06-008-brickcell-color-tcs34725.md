@@ -44,7 +44,6 @@ Now, let's start into programming the micro:bit to utilize the TCS34725 rgb colo
 
 ```ts
 basic.forever(function () {
-    basic.showIcon(IconNames.Heart);
     serial.writeLine("R: " + Brickcell.getRed());
     serial.writeLine("G: " + Brickcell.getGreen());
     serial.writeLine("B: " + Brickcell.getBlue());
@@ -54,7 +53,14 @@ basic.forever(function () {
 ```
 7. Open a Serial Monitor such as Termite terminal app [https://www.compuphase.com/software_termite.htm/](https://www.compuphase.com/software_termite.htm/). Set the baud rate to 115200 bps.
 
+**Or you make a copy of my created project in your MakeCode workspace.**
+
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:S74469-60454-73791-19678" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+
+[https://makecode.microbit.org/S74469-60454-73791-19678/](https://makecode.microbit.org/S74469-60454-73791-19678/)
+
 ## **Expected Result**
 
 If you carefully follow the provided instruction above, you should be able to view the measured color values of red, green, and blue on the serial terminal every 1000 milliseconds.
+
 

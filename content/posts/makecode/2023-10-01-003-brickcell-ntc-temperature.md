@@ -45,10 +45,10 @@ Let's explore how to connect the NTC Temperature sensor to a micro:bit microcont
 Now, let's start into programming the micro:bit to utilize the NTC temperature sensor.
 
 1. Login to [https://makecode.microbit.org/](https://makecode.microbit.org/) using your Microsoft account.
-2. Create a new project by clicking the "New Project" button. You may name it anything you want, I suggest to name it with descriptive name such as "ntc-temperature-test".
+2. Create a new project by clicking the "New Project" button. You may name it anything you want, I suggest to name it with descriptive name such as "temperature-ntc-test".
 3. Click the "Extensions" block just under the "Math" block.
-4. Type [https://github.com/gbantique/brickcell-ntc-temperature/](https://github.com/gbantique/brickcell-ntc-temperature/) on the search bar.
-5. Select the "brickcell-ntc-temperature" from the search results. The "ntc temperature" block should appear under the "Brickcell" block.
+4. Type [https://github.com/gbantique/brickcell-temperature-ntc/](https://github.com/gbantique/brickcell-temperature-ntc/) on the search bar.
+5. Select the "brickcell-temperature-ntc" from the search results. The "temperature ntc" block should appear under the "Brickcell" block.
 6. Copy the code provided below.
 
 ```ts
@@ -61,9 +61,9 @@ basic.forever(function () {
 
 **Or you make a copy of my created project in your MakeCode workspace.**
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:S44934-74754-48358-78709" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:S65473-15861-84615-36557" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
-[https://makecode.microbit.org/S44934-74754-48358-78709/](https://makecode.microbit.org/S44934-74754-48358-78709/)
+[https://makecode.microbit.org/S65473-15861-84615-36557/](https://makecode.microbit.org/S65473-15861-84615-36557/)
 
 ## **Expected Result**
 

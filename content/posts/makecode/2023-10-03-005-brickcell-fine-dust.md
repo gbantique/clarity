@@ -44,10 +44,10 @@ Let's explore how to connect the Fine Dust sensor to a micro:bit microcontroller
 Now, let's start into programming the micro:bit to utilize the Fine Dust sensor.
 
 1. Login to [https://makecode.microbit.org/](https://makecode.microbit.org/) using your Microsoft account.
-2. Create a new project by clicking the "New Project" button. You may name it anything you want, I suggest to name it with descriptive name such as "fine-dust-test".
+2. Create a new project by clicking the "New Project" button. You may name it anything you want, I suggest to name it with descriptive name such as "dust-gp2y10-test".
 3. Click the "Extensions" block just under the "Math" block.
-4. Type [https://github.com/gbantique/brickcell-fine-dust/](https://github.com/gbantique/brickcell-fine-dust/) on the search bar.
-5. Select the "brickcell-fine-dust" from the search results. The "fine dust" block should appear under the "Brickcell" block.
+4. Type [https://github.com/gbantique/brickcell-dust-gp2y10/](https://github.com/gbantique/brickcell-dust-gp2y10/) on the search bar.
+5. Select the "brickcell-dust-gp2y10" from the search results. The "fine dust" block should appear under the "Brickcell" block.
 6. Copy the code provided below.
 
 ```ts
@@ -63,9 +63,9 @@ basic.forever(function () {
 
 **Or you make a copy of my created project in your MakeCode workspace.**
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:S42758-09578-51779-54769" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:S53072-83059-84653-95363" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
-[https://makecode.microbit.org/S42758-09578-51779-54769/](https://makecode.microbit.org/S42758-09578-51779-54769/)
+[https://makecode.microbit.org/S53072-83059-84653-95363/](https://makecode.microbit.org/S53072-83059-84653-95363/)
 
 ## **Expected Result**
 

@@ -1,13 +1,13 @@
 ---
 title: 010 - Brickcell Gyro MPU6050 | MakeCode Microbit
-url: /2023/10/07/brickcell_gyro_mpu6050/
+url: /2023/10/08/brickcell_gyro_mpu6050/
 author: George Bantique
 series:
   - MakeCode, Microbit, Brickcell
 categories:
   - MakeCode
   - microbit
-date: '2023-10-07T18:30:00+08:00'
+date: '2023-10-08T18:30:00+08:00'
 tags:
   - MakeCode
   - microbit

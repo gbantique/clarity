@@ -10,6 +10,8 @@ tags:
   - How to use rotary encoder in micropython
   - MicroPython Menu System
   - MicroPython Rotary Encoder
+series:
+  - MicroPython TechNotes
 title: '027 - MicroPython TechNotes: Rotary Encoder'
 url: /2021/04/13/027-micropython-technotes-rotary-encoder/
 ---

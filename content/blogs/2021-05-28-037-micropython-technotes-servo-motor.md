@@ -12,6 +12,8 @@ tags:
   - MicroPython project
   - micropython tutorial
   - Raspberry Pi Pico MicroPython
+series:
+  - MicroPython TechNotes
 title: '037 - MicroPython TechNotes: Servo Motor'
 url: /2021/05/28/037-micropython-technotes-servo-motor/
 ---

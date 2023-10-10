@@ -11,6 +11,8 @@ tags:
   - MicroPython DS3231
   - MicroPython DS3231 RTC
   - MicroPython LCD Menu
+series:
+  - MicroPython TechNotes
 title: '030 - MicroPython TechNotes: DS3231 RTC'
 url: /2021/04/21/030-micropython-technotes-ds3231-rtc/
 ---

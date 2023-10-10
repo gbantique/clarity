@@ -7,6 +7,8 @@ date: '2021-03-28T05:53:00+08:00'
 excerpt: In this article, we will tackle on how to use CONTINUOUS ROTATION POTENTIOMETER with ESP32 using MicroPython programming language.
 tags:
   - MicroPython tutorials
+series:
+  - MicroPython TechNotes
 title: '023 - MicroPython TechNotes: Continuous Rotation Potentiometer'
 url: /2021/03/28/023-micropython-technotes-continuous-rotation-potentiometer/
 ---

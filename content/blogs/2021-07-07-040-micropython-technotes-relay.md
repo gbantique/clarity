@@ -10,6 +10,8 @@ tags:
   - ESP8266
   - MicroPython relay
   - Node MCU
+series:
+  - MicroPython TechNotes
 title: '040 - MicroPython TechNotes: Relay'
 url: /2021/07/07/040-micropython-technotes-relay/
 ---

@@ -14,6 +14,8 @@ tags:
   - How to use LCD in MicroPython
   - LCD MicroPython
   - MicroPython LCD
+series:
+  - MicroPython TechNotes
 title: '008 - MicroPython TechNotes: 16x2 LCD'
 url: /2021/01/30/008-micropython-technotes-16x2-lcd/
 ---

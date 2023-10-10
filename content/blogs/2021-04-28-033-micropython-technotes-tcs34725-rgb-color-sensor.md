@@ -10,6 +10,8 @@ tags:
   - How to use TCS34725 in MicroPython
   - MicroPython Color Sensor
   - MicroPython RGB Color sensor
+series:
+  - MicroPython TechNotes
 title: '033 - MicroPython TechNotes: TCS34725 RGB Color Sensor'
 url: /2021/04/28/033-micropython-technotes-tcs34725-rgb-color-sensor/
 ---

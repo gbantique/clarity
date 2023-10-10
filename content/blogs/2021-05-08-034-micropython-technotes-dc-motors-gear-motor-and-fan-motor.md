@@ -10,6 +10,8 @@ tags:
   - Micropython dc motor
   - Micropython esp32
   - micropython fan motor
+series:
+  - MicroPython TechNotes
 title: '034 - MicroPython TechNotes: DC Motors | Gear Motor and Fan Motor'
 url: /2021/05/08/034-micropython-technotes-dc-motors-gear-motor-and-fan-motor/
 ---

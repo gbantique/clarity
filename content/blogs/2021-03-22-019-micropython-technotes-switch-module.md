@@ -8,6 +8,8 @@ excerpt: In this article, we will learn on how to use switch module with ESP32 u
 tags:
   - ESP32 switch
   - micropython reading an input
+series:
+  - MicroPython TechNotes
 title: '019 - MicroPython TechNotes: Switch Module'
 url: /2021/03/22/019-micropython-technotes-switch-module/
 ---

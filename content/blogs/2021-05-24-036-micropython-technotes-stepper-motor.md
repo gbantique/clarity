@@ -11,6 +11,8 @@ tags:
   - MicroPython project
   - MicroPython step motor
   - MicroPython Stepper Motor
+series:
+  - MicroPython TechNotes
 title: '036 - MicroPython TechNotes: Stepper Motor'
 url: /2021/05/24/036-micropython-technotes-stepper-motor/
 ---

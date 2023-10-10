@@ -15,6 +15,8 @@ tags:
   - micropython oled display
   - sh1106 esp32
   - sh1106 micropython
+series:
+  - MicroPython TechNotes
 title: '011 - MicroPython TechNotes: 1.3 OLED Display'
 url: /2021/02/10/011-micropython-technotes-1-3-oled-display/
 ---

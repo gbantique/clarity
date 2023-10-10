@@ -8,6 +8,8 @@ tags:
   - esp32 micropython
   - Gorilla Cell LED
   - Gorilla Cell LED MicroPython
+series:
+  - MicroPython TechNotes
 title: '004 - MicroPython TechNotes: Gorilla Cell I/O Devices'
 url: /2021/01/22/004-micropython-technotes-gorilla-cell-i-o-devices/
 ---

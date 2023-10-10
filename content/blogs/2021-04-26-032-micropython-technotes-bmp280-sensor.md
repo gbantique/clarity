@@ -10,6 +10,8 @@ tags:
   - How to use BMP280 in MicroPython
   - MicroPython BMP280
   - MicroPython project
+series:
+  - MicroPython TechNotes
 title: '032 - MicroPython TechNotes: BMP280 Sensor'
 url: /2021/04/26/032-micropython-technotes-bmp280-sensor/
 ---

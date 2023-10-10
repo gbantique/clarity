@@ -14,6 +14,8 @@ tags:
   - How to use LED in MicroPython
   - LED MicroPython
   - MicroPython LED
+series:
+  - MicroPython TechNotes
 title: '005 - MicroPython TechNotes: Gorilla Cell LED | MicroPython Hello World'
 url: /2021/01/22/005-micropython-technotes-gorilla-cell-led-micropython-hello-world/
 ---

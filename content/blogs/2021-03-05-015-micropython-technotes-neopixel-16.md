@@ -10,6 +10,8 @@ tags:
   - ESP32 Neopixel
   - ESP32 WS2812B
   - MicroPython Neopixel
+series:
+  - MicroPython TechNotes
 title: '015 - MicroPython TechNotes: Neopixel 16'
 url: /2021/03/05/015-micropython-technotes-neopixel-16/
 ---

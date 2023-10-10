@@ -10,6 +10,8 @@ tags:
   - esp32 oled display
   - How to use oled in MicroPython
   - micropython oled display
+series:
+  - MicroPython TechNotes
 title: '010 - MicroPython TechNotes: 0.96 OLED Display'
 url: /2021/02/07/010-micropython-technotes-0-96-oled-display/
 ---

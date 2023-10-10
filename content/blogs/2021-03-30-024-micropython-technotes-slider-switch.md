@@ -7,6 +7,8 @@ date: '2021-03-30T14:35:00+08:00'
 excerpt: In this article, we will learn how to use Slider Switch with ESP32 using MicroPython programming language. A slider switch is basically a variable resistor that changes resistance according to slider wiper position. With that knowledge, we can used MicroPython's ADC function to interpret slider switch position.
 tags:
   - MicroPython tutorials
+series:
+  - MicroPython TechNotes
 title: '024 - MicroPython TechNotes: Slider Switch'
 url: /2021/03/30/024-micropython-technotes-slider-switch/
 ---

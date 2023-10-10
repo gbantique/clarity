@@ -8,6 +8,8 @@ excerpt: In this article, we will learn on how to read an input device with ESP3
 tags:
   - ESP32 button
   - micropython button
+series:
+  - MicroPython TechNotes
 title: '018 - MicroPython TechNotes: Button | Reading an Input'
 url: /2021/03/20/018-micropython-technotes-button-reading-an-input/
 ---

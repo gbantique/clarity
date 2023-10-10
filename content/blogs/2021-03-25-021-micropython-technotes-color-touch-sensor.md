@@ -8,6 +8,8 @@ excerpt: In this article, we will learn how to use a color touch sensor module w
 tags:
   - esp32 color touch sensor
   - how to read input in micropython
+series:
+  - MicroPython TechNotes
 title: '021 - MicroPython TechNotes: Color Touch Sensor'
 url: /2021/03/25/021-micropython-technotes-color-touch-sensor/
 ---

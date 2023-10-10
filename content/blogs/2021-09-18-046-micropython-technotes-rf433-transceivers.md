@@ -12,6 +12,8 @@ tags:
   - ESP32 RF433 transceiver
   - ESP8266
   - MicroPython RF433
+series:
+  - MicroPython TechNotes
 title: '046 - MicroPython TechNotes: RF433 Transceivers'
 url: /2021/09/18/046-micropython-technotes-rf433-transceivers/
 ---

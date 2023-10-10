@@ -10,6 +10,8 @@ tags:
   - Micropython esp32
   - MicroPython project
   - remote control car
+series:
+  - MicroPython TechNotes
 title: '035 - MicroPython TechNotes: Dual Motor Driver'
 url: /2021/05/15/035-micropython-technotes-dual-motor-driver/
 ---

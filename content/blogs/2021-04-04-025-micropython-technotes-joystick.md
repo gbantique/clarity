@@ -8,6 +8,8 @@ excerpt: In this article, we will tackle how to use JOYSTICK with ESP32 using Mi
 tags:
   - esp32 joystick
   - how to read analog input in MicroPython
+series:
+  - MicroPython TechNotes
 title: '025 - MicroPython TechNotes: Joystick'
 url: /2021/04/04/025-micropython-technotes-joystick/
 ---

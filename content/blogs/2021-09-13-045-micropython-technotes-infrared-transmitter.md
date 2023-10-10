@@ -12,6 +12,8 @@ tags:
   - MicroPython Infrared
   - MicroPython infrared transmitter
   - MicroPython IR
+series:
+  - MicroPython TechNotes
 title: '045 - MicroPython TechNotes: Infrared Transmitter'
 url: /2021/09/13/045-micropython-technotes-infrared-transmitter/
 ---

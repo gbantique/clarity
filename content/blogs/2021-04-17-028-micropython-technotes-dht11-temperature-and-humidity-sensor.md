@@ -13,6 +13,8 @@ tags:
   - MicroPython DHT11
   - MicroPython DHT11 project
   - MicroPython DHT11 sensor
+series:
+  - MicroPython TechNotes
 title: '028 - MicroPython TechNotes: DHT11 Temperature and Humidity Sensor'
 url: /2021/04/17/028-micropython-technotes-dht11-temperature-and-humidity-sensor/
 ---

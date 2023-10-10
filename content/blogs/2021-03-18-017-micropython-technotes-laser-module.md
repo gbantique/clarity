@@ -10,6 +10,8 @@ tags:
   - Laser display
   - Laser module
   - laser module micropython
+series:
+  - MicroPython TechNotes
 title: '017 - MicroPython TechNotes: LASER Module'
 url: /2021/03/18/017-micropython-technotes-laser-module/
 ---

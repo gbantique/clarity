@@ -4,6 +4,8 @@ categories:
   - GorillaCell
 date: '2021-01-22T14:29:00+08:00'
 excerpt: The Gorillacell ESP32 shield is intuitively designed to minimized confusion with circuit connections. For beginners, breadboards is a source of confusion so this ESP32 shield is created to prevent that. ESP32 shield extends the ESP32 pins to pin headers providing easy circuit connection of input and output devices.
+series:
+  - MicroPython TechNotes
 title: '003 - MicroPython TechNotes: Gorillacell ESP32 Shield'
 url: /2021/01/22/003-micropython-technotes-gorillacell-esp32-shield/
 ---

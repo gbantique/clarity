@@ -13,6 +13,8 @@ tags:
   - MicroPython project
   - MicroPython tutorials
   - NodeMCU
+series:
+  - MicroPython TechNotes
 title: '047 - MicroPython TechNotes: E108 GPS'
 url: /2021/09/29/047-micropython-technotes-e108-gps/
 ---

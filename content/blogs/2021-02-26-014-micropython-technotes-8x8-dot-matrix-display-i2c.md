@@ -11,6 +11,8 @@ tags:
   - How to use dot matrix display in MicroPython
   - MicroPython 8×8 dot matrix
   - micropython ht16k33
+series:
+  - MicroPython TechNotes
 title: '014 - MicroPython TechNotes: 8x8 Dot Matrix Display (I2C)'
 url: /2021/02/26/014-micropython-technotes-8x8-dot-matrix-display-i2c/
 ---

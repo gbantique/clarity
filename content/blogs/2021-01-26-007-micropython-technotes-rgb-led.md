@@ -14,6 +14,8 @@ tags:
   - micropython tutorial
   - RGB LED
   - RGB MicroPython
+series:
+  - MicroPython TechNotes
 title: '007 - MicroPython TechNotes: RGB LED'
 url: /2021/01/26/007-micropython-technotes-rgb-led/
 ---

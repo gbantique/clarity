@@ -10,6 +10,8 @@ tags:
   - ESP8266
   - micropython electromagnet
   - micropython robot
+series:
+  - MicroPython TechNotes
 title: '039 - MicroPython TechNotes: Electromagnet'
 url: /2021/06/21/039-micropython-technotes-electromagnet/
 ---

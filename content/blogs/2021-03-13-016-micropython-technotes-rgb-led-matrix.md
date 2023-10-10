@@ -11,6 +11,8 @@ tags:
   - ESP32 Neopixel
   - ESP32 WS2812B
   - MicroPython Neopixel
+series:
+  - MicroPython TechNotes
 title: '016 - MicroPython TechNotes: RGB LED Matrix'
 url: /2021/03/13/016-micropython-technotes-rgb-led-matrix/
 ---

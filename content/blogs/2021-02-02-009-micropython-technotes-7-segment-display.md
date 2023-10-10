@@ -9,6 +9,8 @@ excerpt: In this article, we will look at 4-digit 7-segment display. We will lea
 tags:
   - esp32 7 segment display
   - How to use 7 segment in MicroPython
+series:
+  - MicroPython TechNotes
 title: '009 - MicroPython TechNotes: 7 Segment Display'
 url: /2021/02/02/009-micropython-technotes-7-segment-display/
 ---

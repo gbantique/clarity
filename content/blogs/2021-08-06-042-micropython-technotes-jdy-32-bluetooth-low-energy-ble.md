@@ -12,6 +12,8 @@ tags:
   - MicroPython BLE
   - MicroPython Bluetooth Low Energy
   - MicroPython Bluetooth v4.0
+series:
+  - MicroPython TechNotes
 title: '042 - MicroPython TechNotes: JDY-32 | Bluetooth Low Energy BLE'
 url: /2021/08/06/042-micropython-technotes-jdy-32-bluetooth-low-energy-ble/
 ---

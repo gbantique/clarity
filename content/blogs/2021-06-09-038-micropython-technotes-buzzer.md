@@ -12,6 +12,8 @@ tags:
   - micropython pwm
   - MicroPython Raspberry Pi Pico
   - micropython sound
+series:
+  - MicroPython TechNotes
 title: '038 - MicroPython TechNotes: Buzzer'
 url: /2021/06/09/038-micropython-technotes-buzzer/
 ---

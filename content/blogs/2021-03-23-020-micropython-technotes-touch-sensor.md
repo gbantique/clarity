@@ -8,6 +8,8 @@ excerpt: In this article, we will learn how to use a touch sensor module with ES
 tags:
   - ESP32 touch sensor
   - how to use touch sensor
+series:
+  - MicroPython TechNotes
 title: '020 - MicroPython TechNotes: Touch Sensor'
 url: /2021/03/23/020-micropython-technotes-touch-sensor/
 ---

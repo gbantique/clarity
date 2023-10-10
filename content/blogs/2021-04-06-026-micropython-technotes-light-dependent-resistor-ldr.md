@@ -11,6 +11,8 @@ tags:
   - MicroPython automatic light
   - Micropython intruder alarm
   - MicroPython LDR
+series:
+  - MicroPython TechNotes
 title: '026 - MicroPython TechNotes: Light Dependent Resistor (LDR)'
 url: /2021/04/06/026-micropython-technotes-light-dependent-resistor-ldr/
 ---

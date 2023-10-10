@@ -4,6 +4,8 @@ categories:
   - GorillaCell
 date: '2021-01-22T14:22:00+08:00'
 excerpt: In this article, I will guide you on how to get started with MicroPython using an ESP32.
+series:
+  - MicroPython TechNotes
 title: '001 - MicroPython TechNotes: Get Started with MicroPython'
 url: /2021/01/22/001-micropython-technotes-get-started-with-micropython/
 ---

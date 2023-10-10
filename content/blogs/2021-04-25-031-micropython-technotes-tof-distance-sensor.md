@@ -10,6 +10,8 @@ tags:
   - How to use VL53L0X TOF Distance Sensor
   - MicroPython Time of flight
   - MicroPython TOF
+series:
+  - MicroPython TechNotes
 title: '031 - MicroPython TechNotes: TOF Distance Sensor'
 url: /2021/04/25/031-micropython-technotes-tof-distance-sensor/
 ---

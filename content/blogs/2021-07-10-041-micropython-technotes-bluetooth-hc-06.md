@@ -14,6 +14,8 @@ tags:
   - MicroPython tutorials
   - Node MCU
   - Python project
+series:
+  - MicroPython TechNotes
 title: '041 - MicroPython TechNotes: Bluetooth HC-06'
 url: /2021/07/10/041-micropython-technotes-bluetooth-hc-06/
 ---

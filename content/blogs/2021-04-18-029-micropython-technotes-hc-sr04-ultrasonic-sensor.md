@@ -8,6 +8,8 @@ excerpt: In this article, we will learn how to use an HC-SR04 Ultrasonic Sensor 
 tags:
   - esp32 hc-sr04
   - micropython hc-sr04
+series:
+  - MicroPython TechNotes
 title: '029 - MicroPython TechNotes: HC-SR04 Ultrasonic Sensor'
 url: /2021/04/18/029-micropython-technotes-hc-sr04-ultrasonic-sensor/
 ---

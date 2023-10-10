@@ -12,6 +12,8 @@ tags:
   - MicroPython external wifi module
   - MicroPython NodeMCU AT commands
   - micropython STA
+series:
+  - MicroPython TechNotes
 title: '043 - MicroPython TechNotes: ESP12E WiFi | External WiFi module'
 url: /2021/08/22/043-micropython-technotes-esp12e-wifi-external-wifi-module/
 ---

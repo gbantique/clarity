@@ -11,6 +11,8 @@ tags:
   - How to use dot matrix display in MicroPython
   - MicroPython 8×16 dot matrix
   - micropython max7219
+series:
+  - MicroPython TechNotes
 title: '013 - MicroPython TechNotes: 8x16 Dot Matrix Display (SPI)'
 url: /2021/02/25/013-micropython-technotes-8x16-dot-matrix-display-spi/
 ---

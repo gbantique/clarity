@@ -9,6 +9,8 @@ tags:
   - ADC MicroPython
   - MicroPython analog input
   - MicroPython tutorials
+series:
+  - MicroPython TechNotes
 title: '022 - MicroPython TechNotes: Potentiometer | Reading an Analog Input'
 url: /2021/03/27/022-micropython-technotes-potentiometer-reading-an-analog-input/
 ---

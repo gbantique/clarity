@@ -12,6 +12,8 @@ tags:
   - How to use Traffic Light in MicroPython
   - MicroPython Traffic Light LED
   - micropython tutorial
+series:
+  - MicroPython TechNotes
 title: '006 - MicroPython TechNotes: Traffic Light LED Module'
 url: /2021/01/24/006-micropython-technotes-traffic-light-led-module/
 ---

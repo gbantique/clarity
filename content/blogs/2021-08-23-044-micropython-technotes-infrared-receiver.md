@@ -13,6 +13,8 @@ tags:
   - MicroPython Infrared
   - MicroPython infrared receiver
   - MicroPython IR
+series:
+  - MicroPython TechNotes
 title: '044 - MicroPython TechNotes: Infrared Receiver'
 url: /2021/08/23/044-micropython-technotes-infrared-receiver/
 ---

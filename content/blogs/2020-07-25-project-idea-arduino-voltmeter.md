@@ -7,6 +7,8 @@ date: '2020-07-25T16:03:00+08:00'
 tags:
   - arduino voltage measurement
   - arduino voltmeter
+series:
+  - My Arduino Exploration
 title: 'Project Idea: Arduino Voltmeter'
 url: /2020/07/25/project-idea-arduino-voltmeter/
 ---

@@ -9,6 +9,8 @@ tags:
   - arduino interrupts
   - Arduino uno
   - interrupts
+series:
+  - My Arduino Exploration
 title: How to Use Arduino Interrupts
 url: /2020/06/15/how-to-use-arduino-interrupts/
 ---

@@ -6,6 +6,8 @@ categories:
 date: '2020-07-06T07:01:00+08:00'
 tags:
   - GSM module using SIM800L
+series:
+  - My Arduino Exploration
 title: 'Tutorial: How to use SIM800L GSM Module using Arduino | Send and Receive SMS'
 url: /2020/07/06/tutorial-how-to-use-sim800l-gsm-module-using-arduino-send-and-receive-sms/
 ---

@@ -4,6 +4,8 @@ categories:
   - Arduino
   - Uno
 date: '2020-08-17T13:48:00+08:00'
+series:
+  - My Arduino Exploration
 title: 'Tutorial: Getting Started with the NRF24L01 | How to use | Arduino'
 url: /2020/08/17/tutorial-getting-started-with-the-nrf24l01-how-to-use-arduino/
 ---

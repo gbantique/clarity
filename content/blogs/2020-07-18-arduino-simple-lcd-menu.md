@@ -8,6 +8,8 @@ tags:
   - 16×2 LCD
   - arduino lcd
   - LCD menu
+series:
+  - My Arduino Exploration
 title: Arduino Simple LCD Menu
 url: /2020/07/18/arduino-simple-lcd-menu/
 ---

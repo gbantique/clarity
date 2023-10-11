@@ -6,6 +6,8 @@ categories:
 date: '2020-08-22T20:02:00+08:00'
 tags:
   - ds3231 arduino
+series:
+  - My Arduino Exploration
 title: 'Tutorial: How to use DS3231 RTC in Arduino'
 url: /2020/08/22/tutorial-how-to-use-ds3231-rtc-in-arduino/
 ---

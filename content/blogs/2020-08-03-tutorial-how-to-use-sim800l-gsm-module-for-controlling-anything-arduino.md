@@ -6,6 +6,8 @@ categories:
 date: '2020-08-03T09:18:00+08:00'
 tags:
   - Arduino uno
+series:
+  - My Arduino Exploration
 title: 'Tutorial: How to use SIM800L GSM Module for Controlling Anything | Arduino'
 url: /2020/08/03/tutorial-how-to-use-sim800l-gsm-module-for-controlling-anything-arduino/
 ---

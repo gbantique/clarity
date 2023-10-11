@@ -7,6 +7,8 @@ date: '2020-08-24T07:58:00+08:00'
 tags:
   - arduino millis
   - arduino sos millis
+series:
+  - My Arduino Exploration
 title: SOS Flasher Using Millis Function with Enable Switch
 url: /2020/08/24/sos-flasher-using-millis-function-with-enable-switch/
 ---

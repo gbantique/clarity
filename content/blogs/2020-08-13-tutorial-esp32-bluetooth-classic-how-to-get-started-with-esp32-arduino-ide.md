@@ -4,6 +4,8 @@ categories:
   - Arduino
   - Uno
 date: '2020-08-13T16:30:00+08:00'
+series:
+  - ESP32 using Arduino
 title: 'Tutorial: ESP32 Bluetooth Classic | How to get started with ESP32 | Arduino IDE'
 url: /2020/08/13/tutorial-esp32-bluetooth-classic-how-to-get-started-with-esp32-arduino-ide/
 ---

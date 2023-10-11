@@ -8,6 +8,8 @@ tags:
   - Arduino
   - arduino keypad
   - how to use keypad
+series:
+  - My Arduino Exploration
 title: 'Tutorial: How to use 4x4 Keypad | Arduino'
 url: /2020/07/28/tutorial-how-to-use-4x4-keypad-arduino/
 ---

@@ -9,6 +9,8 @@ tags:
   - ESP32 Access Point
   - ESP32 Internet of Things
   - ESP32 IOT
+series:
+  - ESP32 using Arduino
 title: 'Tutorial: ESP32 Web Server | ESP32 WiFi in Access Point Mode'
 url: /2020/08/12/tutorial-esp32-web-server-esp32-wifi-in-access-point-mode/
 ---

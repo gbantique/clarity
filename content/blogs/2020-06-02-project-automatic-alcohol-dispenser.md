@@ -13,6 +13,8 @@ tags:
   - pandemic
   - servo motor
   - ultrasonic sensor
+series:
+  - My Arduino Exploration
 title: 'Project: Automatic Alcohol Dispenser'
 url: /2020/06/02/project-automatic-alcohol-dispenser/
 ---

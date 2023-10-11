@@ -8,6 +8,8 @@ tags:
   - Arduino
   - Arduino uno
   - lcd keypad shield
+series:
+  - My Arduino Exploration
 title: How to Use LCD Keypad Shield for Arduino
 url: /2020/06/18/how-to-use-lcd-keypad-shield-for-arduino/
 ---

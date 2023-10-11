@@ -8,6 +8,8 @@ tags:
   - 3×4 keypad arduino
   - 4×4 keypad
   - keypad with lcd and menu
+series:
+  - My Arduino Exploration
 title: 'Tutorial: How to use Keypad | Text Entry Mode | Arduino'
 url: /2020/07/29/tutorial-how-to-use-keypad-text-entry-mode-arduino/
 ---

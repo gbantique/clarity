@@ -12,6 +12,8 @@ tags:
   - bluetooth module
   - HC-06
   - MIT App Inventor
+series:
+  - My Arduino Exploration
 title: MIT App Inventor for Arduino
 url: /2020/06/21/mit-app-inventor-for-arduino/
 ---

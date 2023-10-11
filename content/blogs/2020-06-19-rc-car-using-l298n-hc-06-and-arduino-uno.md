@@ -12,6 +12,8 @@ tags:
   - L298N
   - Motor driver
   - motor driver module
+series:
+  - My Arduino Exploration
 title: RC Car using L298N, HC-06, and Arduino Uno
 url: /2020/06/19/rc-car-using-l298n-hc-06-and-arduino-uno/
 ---

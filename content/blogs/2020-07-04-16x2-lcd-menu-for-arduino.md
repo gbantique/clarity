@@ -6,6 +6,8 @@ categories:
 date: '2020-07-04T21:44:00+08:00'
 tags:
   - LCD Menu Arduino
+series:
+  - My Arduino Exploration
 title: 16x2 LCD Menu for Arduino
 url: /2020/07/04/16x2-lcd-menu-for-arduino/
 ---

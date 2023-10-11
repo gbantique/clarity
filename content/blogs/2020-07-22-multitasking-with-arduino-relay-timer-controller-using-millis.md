@@ -9,6 +9,8 @@ tags:
   - arduino multithreading
   - arduino protothreading
   - multiple task at the same time
+series:
+  - My Arduino Exploration
 title: Multitasking with Arduino | Relay Timer Controller | using millis
 url: /2020/07/22/multitasking-with-arduino-relay-timer-controller-using-millis/
 ---

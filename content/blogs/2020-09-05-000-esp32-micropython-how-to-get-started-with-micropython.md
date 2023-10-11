@@ -7,6 +7,8 @@ date: '2020-09-05T14:10:00+08:00'
 tags:
   - getting started with micropython
   - how to use micropython esp32
+series:
+  - ESP32 MicroPython
 title: '000 - ESP32 MicroPython: How to Get Started with MicroPython'
 url: /2020/09/05/000-esp32-micropython-how-to-get-started-with-micropython/
 ---

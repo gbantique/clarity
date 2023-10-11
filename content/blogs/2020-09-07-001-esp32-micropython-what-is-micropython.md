@@ -7,6 +7,8 @@ date: '2020-09-07T14:45:00+08:00'
 tags:
   - esp32 micropython
   - micropython for esp32
+series:
+  - ESP32 MicroPython
 title: '001 - ESP32 MicroPython: What is MicroPython'
 url: /2020/09/07/001-esp32-micropython-what-is-micropython/
 ---

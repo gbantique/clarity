@@ -4,6 +4,8 @@ categories:
   - Arduino
   - Uno
 date: '2020-07-20T17:27:00+08:00'
+series:
+  - My Arduino Exploration
 title: Tutorial Understanding Blink Without Delay | How to millis
 url: /2020/07/20/tutorial-understanding-blink-without-delay-how-to-millis/
 ---

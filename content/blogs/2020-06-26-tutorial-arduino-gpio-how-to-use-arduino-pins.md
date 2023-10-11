@@ -11,6 +11,8 @@ tags:
   - digitalWrite
   - How to use Arduino pins
   - pinMode
+series:
+  - My Arduino Exploration
 title: 'Tutorial: Arduino GPIO | How to use Arduino Pins'
 url: /2020/06/26/tutorial-arduino-gpio-how-to-use-arduino-pins/
 ---

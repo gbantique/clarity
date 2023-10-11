@@ -8,6 +8,8 @@ tags:
   - arduino keypad
   - arduino security
   - door lock security system
+series:
+  - My Arduino Exploration
 title: 'Project Idea: Door Lock Security | Arduino'
 url: /2020/07/23/project-idea-door-lock-security-arduino/
 ---

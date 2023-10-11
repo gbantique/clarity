@@ -8,6 +8,8 @@ tags:
   - ESP32
   - internet of things
   - IOT
+series:
+  - ESP32 using Arduino
 title: 'Tutorial: ESP32 Web Server | Control something through ESP32 WiFi in Station Mode'
 url: /2020/08/10/tutorial-esp32-web-server-control-something-through-esp32-wifi-in-station-mode/
 ---

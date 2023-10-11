@@ -10,6 +10,8 @@ tags:
   - Arduino RFID tags
   - MFRC522
   - RC522
+series:
+  - My Arduino Exploration
 title: 'Tutorial: How to use MFRC522 RFID module using Arduino'
 url: /2020/09/01/tutorial-how-to-use-mfrc522-rfid-module-using-arduino/
 ---

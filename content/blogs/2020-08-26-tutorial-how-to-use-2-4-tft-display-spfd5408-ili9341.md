@@ -10,6 +10,8 @@ tags:
   - arduino spfd5408
   - ili9341 arduino
   - spfd5408 arduino
+series:
+  - My Arduino Exploration
 title: 'Tutorial: How to use 2.4 TFT Display | SPFD5408 | ILI9341'
 url: /2020/08/26/tutorial-how-to-use-2-4-tft-display-spfd5408-ili9341/
 ---

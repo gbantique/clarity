@@ -6,6 +6,8 @@ categories:
 date: '2020-07-07T13:53:00+08:00'
 tags:
   - Arduino
+series:
+  - My Arduino Exploration
 title: 'Tutorial: How to use SIM800L DTMF to Control Anything | Arduino'
 url: /2020/07/07/tutorial-how-to-use-sim800l-dtmf-to-control-anything-arduino/
 ---

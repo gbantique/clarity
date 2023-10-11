@@ -9,6 +9,8 @@ tags:
   - Arduino HID
   - arduino hid controller
   - arduino hid keyboard
+series:
+  - My Arduino Exploration
 title: 'Tutorial: How to Use Arduino Uno as HID | Part 1: Arduino Keyboard Emulation'
 url: /2020/07/14/tutorial-how-to-use-arduino-uno-as-hid-part-1-arduino-keyboard-emulation/
 ---

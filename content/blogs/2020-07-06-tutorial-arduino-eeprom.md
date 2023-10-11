@@ -6,6 +6,8 @@ categories:
 date: '2020-07-06T16:08:00+08:00'
 tags:
   - EEPROM Arduino
+series:
+  - My Arduino Exploration
 title: 'Tutorial: Arduino EEPROM'
 url: /2020/07/06/tutorial-arduino-eeprom/
 ---

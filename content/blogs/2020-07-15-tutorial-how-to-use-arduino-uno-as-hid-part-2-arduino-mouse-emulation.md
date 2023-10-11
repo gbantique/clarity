@@ -7,6 +7,8 @@ date: '2020-07-15T21:49:00+08:00'
 tags:
   - arduino as hid mouse
   - arduino hid controller
+series:
+  - My Arduino Exploration
 title: 'Tutorial: How to Use Arduino Uno as HID | Part 2: Arduino Mouse Emulation'
 url: /2020/07/15/tutorial-how-to-use-arduino-uno-as-hid-part-2-arduino-mouse-emulation/
 ---

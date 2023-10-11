@@ -4,6 +4,8 @@ categories:
   - Arduino
   - Uno
 date: '2020-08-18T19:15:00+08:00'
+series:
+  - My Arduino Exploration
 title: 'Tutorial: How to use 0.96 OLED - a small and cute display'
 url: /2020/08/18/tutorial-how-to-use-0-96-oled-a-small-and-cute-display/
 ---

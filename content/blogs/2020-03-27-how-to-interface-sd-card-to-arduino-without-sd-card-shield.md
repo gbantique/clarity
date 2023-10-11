@@ -13,6 +13,8 @@ tags:
   - SPI
   - technology
   - tinkering
+series:
+  - My Arduino Exploration
 title: How to Interface SD card to Arduino (without SD card shield)?
 url: /2020/03/27/how-to-interface-sd-card-to-arduino-without-sd-card-shield/
 ---

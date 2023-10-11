@@ -13,6 +13,8 @@ tags:
   - l298
   - Motor driver
   - stepper motor
+series:
+  - My Arduino Exploration
 title: How to Interface Stepper Motor to Arduino Uno
 url: /2020/04/06/how-to-interface-stepper-motor-to-arduino-uno/
 ---

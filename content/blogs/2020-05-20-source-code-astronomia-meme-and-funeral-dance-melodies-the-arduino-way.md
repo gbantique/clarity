@@ -9,6 +9,8 @@ tags:
   - Arduino Tone
   - astronomia
   - funeral dance
+series:
+  - My Arduino Exploration
 title: 'Source Code: Astronomia Meme and Funeral Dance | melodies the Arduino way'
 url: /2020/05/20/source-code-astronomia-meme-and-funeral-dance-melodies-the-arduino-way/
 ---

@@ -12,6 +12,8 @@ tags:
   - L293D
   - Motor Driver Shield
   - PWM
+series:
+  - My Arduino Exploration
 title: How to Get Started with L293D Motor Driver Shield with Arduino
 url: /2020/05/18/how-to-get-started-with-l293d-motor-driver-shield-with-arduino/
 ---

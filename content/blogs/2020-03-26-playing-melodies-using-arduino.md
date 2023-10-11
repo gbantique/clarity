@@ -12,6 +12,8 @@ tags:
   - playing melodies
   - Speaker
   - tinkering
+series:
+  - My Arduino Exploration
 title: Playing Melodies Using Arduino
 url: /2020/03/26/playing-melodies-using-arduino/
 ---

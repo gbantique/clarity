@@ -10,6 +10,8 @@ tags:
   - Arduino uno
   - L298N
   - motor driver module
+series:
+  - My Arduino Exploration
 title: How to Get Started with L298N Motor Driver module using Arduino
 url: /2020/05/18/how-to-get-started-with-l298n-motor-driver-module-using-arduino/
 ---

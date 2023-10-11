@@ -13,6 +13,8 @@ tags:
   - Mp3 player
   - SD card
   - tinkering
+series:
+  - My Arduino Exploration
 title: How To Play MP3 Files on Arduino from SD Card
 url: /2020/04/03/how-to-play-mp3-files-on-arduino-from-sd-card/
 ---

@@ -12,6 +12,8 @@ tags:
   - electronics
   - hobby
   - software serial
+series:
+  - My Arduino Exploration
 title: What is Arduino Software Serial
 url: /2020/04/03/what-is-arduino-software-serial/
 ---

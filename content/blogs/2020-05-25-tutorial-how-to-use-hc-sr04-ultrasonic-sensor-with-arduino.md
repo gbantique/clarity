@@ -9,6 +9,8 @@ tags:
   - distance measurement sensor
   - hc-sr04
   - ultrasonic sensor
+series:
+  - My Arduino Exploration
 title: 'TUTORIAL: How to use HC-SR04 Ultrasonic Sensor with Arduino'
 url: /2020/05/25/tutorial-how-to-use-hc-sr04-ultrasonic-sensor-with-arduino/
 ---

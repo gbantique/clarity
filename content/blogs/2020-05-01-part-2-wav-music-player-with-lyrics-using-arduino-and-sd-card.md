@@ -14,6 +14,8 @@ tags:
   - tinkering
   - WAV
   - wav player
+series:
+  - My Arduino Exploration
 title: 'Part 2: Wav Music Player with Lyrics Using Arduino and SD Card'
 url: /2020/05/01/part-2-wav-music-player-with-lyrics-using-arduino-and-sd-card/
 ---

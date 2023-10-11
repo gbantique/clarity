@@ -20,6 +20,8 @@ tags:
   - state machine
   - tinkering
   - wireless ps2
+series:
+  - My Arduino Exploration
 title: 8 Degrees Of Freedom (DOF) Robot Using Arduino Uno
 url: /2020/03/21/8-degrees-of-freedom-dof-robot-using-arduino-uno/
 ---

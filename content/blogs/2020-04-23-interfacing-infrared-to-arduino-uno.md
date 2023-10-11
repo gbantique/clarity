@@ -11,6 +11,8 @@ tags:
   - ir
   - IR decoder
   - Remote Control
+series:
+  - My Arduino Exploration
 title: Interfacing Infrared to Arduino Uno
 url: /2020/04/23/interfacing-infrared-to-arduino-uno/
 ---

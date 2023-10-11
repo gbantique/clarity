@@ -17,6 +17,8 @@ tags:
   - RC Car
   - Remote Control
   - technology
+series:
+  - My Arduino Exploration
 title: How to make a Remote Control RC car using Arduino and HC-06 bluetooth module
 url: /2020/02/12/how-to-make-a-remote-control-rc-car-using-arduino-and-hc-06-bluetooth-module/
 ---

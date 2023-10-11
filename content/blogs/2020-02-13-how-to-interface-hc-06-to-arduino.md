@@ -13,6 +13,8 @@ tags:
   - hobby
   - interface
   - tinkering
+series:
+  - My Arduino Exploration
 title: How to Interface HC-06 to Arduino
 url: /2020/02/13/how-to-interface-hc-06-to-arduino/
 ---

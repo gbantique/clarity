@@ -15,6 +15,8 @@ tags:
   - Mp3 player
   - Speaker
   - tinkering
+series:
+  - My Arduino Exploration
 title: 'Part 1: DF Player Mini - a mini cheap mp3 player'
 url: /2020/02/12/part-1-df-player-mini-a-mini-cheap-mp3-player/
 ---

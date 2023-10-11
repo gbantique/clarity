@@ -14,6 +14,8 @@ tags:
   - tinkering
   - tmrpcm
   - wav music player
+series:
+  - My Arduino Exploration
 title: 'Part 1: Wav Music Player Using Arduino Uno and SD Card'
 url: /2020/04/21/part-1-wav-music-player-using-arduino-uno-and-sd-card/
 ---

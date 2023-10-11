@@ -17,6 +17,8 @@ tags:
   - music
   - songs
   - tinkering
+series:
+  - My Arduino Exploration
 title: 'Part 3: DF Player Mini Tinkering with Arduino Nano and LCD'
 url: /2020/03/08/part-3-df-player-mini-tinkering-with-arduino-nano-and-lcd/
 ---

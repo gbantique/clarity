@@ -13,6 +13,8 @@ tags:
   - micro SD
   - Mp3 player
   - tinkering
+series:
+  - My Arduino Exploration
 title: 'Part 2: DF Player Mini Tinkering with Arduino Nano'
 url: /2020/02/12/part-2-df-player-mini-tinkering-with-arduino-nano/
 ---

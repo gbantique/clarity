@@ -12,6 +12,8 @@ tags:
   - IOT
   - tinkering
   - wireless ps2
+series:
+  - My Arduino Exploration
 title: How to Interface PS2 Controller to Arduino Uno
 url: /2020/03/08/how-to-interface-ps2-controller-to-arduino-uno/
 ---

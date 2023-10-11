@@ -10,6 +10,8 @@ excerpt: 'I just received my Raspberry Pi Pico which I purchased in our local on
   And just after a minute or two, I am able to make the most popular Hello world of embedded electronics which is the blinking of the LED. So, I decided to create a tutorial on how easy it is to get started with Raspberry Pi Pico using MicroPython language. I divided this tutorial into 3 simple steps. So, without further delays, lets get started.'
 tags:
   - How to get started with Raspberry Pi Pico
+series:
+  - Raspberry Pi Pico MicroPython
 title: '000 - Raspberry Pi Pico: How to get started | MicroPython'
 url: /2021/02/01/000-raspberry-pi-pico-how-to-get-started-micropython/
 ---

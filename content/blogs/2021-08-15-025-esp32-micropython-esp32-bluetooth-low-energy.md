@@ -11,6 +11,8 @@ tags:
   - esp32 bluetooth low energy
   - MicroPython BLE
   - micropython bluetooth
+series:
+  - ESP32 MicroPython
 title: '025 - ESP32 MicroPython: ESP32 Bluetooth Low Energy'
 url: /2021/08/15/025-esp32-micropython-esp32-bluetooth-low-energy/
 ---

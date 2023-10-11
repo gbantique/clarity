@@ -8,6 +8,8 @@ tags:
   - esp32 interrupt
   - esp32 micropython
   - Micropython esp32
+series:
+  - ESP32 MicroPython
 title: '004 - ESP32 MicroPython: External Interrupts'
 url: /2020/09/10/004-esp32-micropython-external-interrupts/
 ---

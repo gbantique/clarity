@@ -12,6 +12,8 @@ tags:
   - MFRC522 MicroPython
   - MicroPython RFID
   - micropython tutorial
+series:
+  - ESP32 MicroPython
 title: '026 - ESP32 MicroPython: MFRC522 RFID Module'
 url: /2021/09/26/026-esp32-micropython-mfrc522-rfid-module/
 ---

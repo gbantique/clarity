@@ -12,6 +12,8 @@ tags:
   - MicroPython tutorials
   - MicroPython web server
   - micropython wifi station
+series:
+  - ESP32 MicroPython
 title: '015 - ESP32 MicroPython: Web Server | ESP32 Station Mode in MicroPython'
 url: /2020/10/28/015-esp32-micropython-web-server-esp32-station-mode-in-micropython/
 ---

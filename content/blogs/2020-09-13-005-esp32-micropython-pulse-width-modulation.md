@@ -8,6 +8,8 @@ tags:
   - esp32 micropython
   - esp32 pwm
   - Micropython esp32
+series:
+  - ESP32 MicroPython
 title: '005 - ESP32 MicroPython: Pulse Width Modulation'
 url: /2020/09/13/005-esp32-micropython-pulse-width-modulation/
 ---

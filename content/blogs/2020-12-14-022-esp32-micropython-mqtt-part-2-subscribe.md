@@ -9,6 +9,8 @@ tags:
   - ESP32 MQTT Subscribe
   - micropython mqtt
   - MicroPython MQTT Subscribe
+series:
+  - ESP32 MicroPython
 title: '022 - ESP32 MicroPython: MQTT Part 2: Subscribe'
 url: /2020/12/14/022-esp32-micropython-mqtt-part-2-subscribe/
 ---

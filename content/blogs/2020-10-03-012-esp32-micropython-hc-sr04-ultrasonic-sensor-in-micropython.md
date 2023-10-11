@@ -12,6 +12,8 @@ tags:
   - Micropython esp32
   - micropython hc-sr04
   - MicroPython tutorials
+series:
+  - ESP32 MicroPython
 title: '012 - ESP32 MicroPython: HC-SR04 Ultrasonic Sensor in MicroPython'
 url: /2020/10/03/012-esp32-micropython-hc-sr04-ultrasonic-sensor-in-micropython/
 ---

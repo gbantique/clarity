@@ -8,6 +8,8 @@ excerpt: Have you ever wonder how to control a number of LEDs with less GPIO pin
 tags:
   - esp32 charlieplexing
   - MicroPython charlieplexing
+series:
+  - Raspberry Pi Pico MicroPython
 title: '003 - Raspberry Pi Pico: Charlieplexing'
 url: /2021/04/01/003-raspberry-pi-pico-charlieplexing/
 ---

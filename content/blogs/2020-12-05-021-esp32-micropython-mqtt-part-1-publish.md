@@ -18,6 +18,8 @@ tags:
   - mqtt thingspeak
   - mqtt tutorial
   - python mqtt
+series:
+  - ESP32 MicroPython
 title: '021 - ESP32 MicroPython: MQTT Part 1: Publish'
 url: /2020/12/05/021-esp32-micropython-mqtt-part-1-publish/
 ---

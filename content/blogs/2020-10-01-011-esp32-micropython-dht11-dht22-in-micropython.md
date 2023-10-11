@@ -10,6 +10,8 @@ tags:
   - esp32 micropython
   - ESP8266 MicroPython
   - MicroPython tutorials
+series:
+  - ESP32 MicroPython
 title: '011 - ESP32 MicroPython: DHT11, DHT22 in MicroPython'
 url: /2020/10/01/011-esp32-micropython-dht11-dht22-in-micropython/
 ---

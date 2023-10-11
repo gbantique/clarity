@@ -10,6 +10,8 @@ tags:
   - micropython music
   - micropython sound
   - micropython tone
+series:
+  - ESP32 MicroPython
 title: '007 - ESP32 MicroPython: How to make some sound with MicroPython'
 url: /2020/09/18/007-esp32-micropython-how-to-make-some-sound-with-micropython/
 ---

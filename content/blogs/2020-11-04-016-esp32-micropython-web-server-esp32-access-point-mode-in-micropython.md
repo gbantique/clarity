@@ -13,6 +13,8 @@ tags:
   - MicroPython tutorials
   - micropython weather station
   - MicroPython web server
+series:
+  - ESP32 MicroPython
 title: '016 - ESP32 MicroPython: Web Server | ESP32 Access Point'
 url: /2020/11/04/016-esp32-micropython-web-server-esp32-access-point-mode-in-micropython/
 ---

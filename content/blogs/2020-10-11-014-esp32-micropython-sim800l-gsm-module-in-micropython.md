@@ -11,6 +11,8 @@ tags:
   - MicroPython tutorials
   - sim800l micropython
   - sim800l micropython projects
+series:
+  - ESP32 MicroPython
 title: '014 - ESP32 MicroPython: SIM800L GSM Module in MicroPython'
 url: /2020/10/11/014-esp32-micropython-sim800l-gsm-module-in-micropython/
 ---

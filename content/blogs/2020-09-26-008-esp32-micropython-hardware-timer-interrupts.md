@@ -10,6 +10,8 @@ tags:
   - Micropython esp32
   - micropython hardware timer interrupt
   - micropython timer interrupt
+series:
+  - ESP32 MicroPython
 title: '008 - ESP32 MicroPython: Hardware Timer Interrupts'
 url: /2020/09/26/008-esp32-micropython-hardware-timer-interrupts/
 ---

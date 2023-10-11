@@ -10,6 +10,8 @@ tags:
   - ESP8266 MicroPython
   - MicroPython tutorials
   - Raspberry Pi Pico MicroPython
+series:
+  - ESP32 MicroPython
 title: '020 - ESP32 MicroPython: RESTful APIs | Demo READ and WRITE'
 url: /2020/11/30/020-esp32-micropython-restful-apis-demo-read-and-write/
 ---

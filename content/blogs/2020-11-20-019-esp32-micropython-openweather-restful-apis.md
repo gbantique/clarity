@@ -12,6 +12,8 @@ tags:
   - openweather micropython
   - openweather rest api
   - openweather restful api
+series:
+  - ESP32 MicroPython
 title: '019 - ESP32 MicroPython: OpenWeather | RESTful APIs'
 url: /2020/11/20/019-esp32-micropython-openweather-restful-apis/
 ---

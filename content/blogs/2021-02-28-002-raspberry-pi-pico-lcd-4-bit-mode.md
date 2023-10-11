@@ -10,6 +10,8 @@ tags:
   - MicroPython LCD
   - micropython lcd 4-bit mode
   - raspberry pi pico 4–bit mode lcd
+series:
+  - Raspberry Pi Pico MicroPython
 title: '002 - Raspberry Pi Pico: LCD 4-bit Mode'
 url: /2021/02/28/002-raspberry-pi-pico-lcd-4-bit-mode/
 ---

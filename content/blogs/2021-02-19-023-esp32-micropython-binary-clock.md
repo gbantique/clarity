@@ -11,6 +11,8 @@ tags:
   - dot matrix binary clock
   - esp32 micropython
   - micropython dot matrix
+series:
+  - ESP32 MicroPython
 title: '023 - ESP32 MicroPython: Binary Clock'
 url: /2021/02/19/023-esp32-micropython-binary-clock/
 ---

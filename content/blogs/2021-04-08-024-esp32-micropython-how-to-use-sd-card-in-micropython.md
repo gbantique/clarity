@@ -8,6 +8,8 @@ excerpt: In this video, we will learn how to interface and use SD Card with ESP3
 tags:
   - ESP32 SD Card
   - How to interface SD Card in MicroPython
+series:
+  - ESP32 MicroPython
 title: '024 - ESP32 MicroPython: How to Use SD Card in MicroPython'
 url: /2021/04/08/024-esp32-micropython-how-to-use-sd-card-in-micropython/
 ---

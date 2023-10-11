@@ -11,6 +11,8 @@ tags:
   - micropython auto updates values
   - MicroPython tutorials
   - micropython weather station
+series:
+  - ESP32 MicroPython
 title: '017 - ESP32 MicroPython: DHT Values Auto Updates using AJAX'
 url: /2020/11/07/017-esp32-micropython-dht-values-auto-updates-using-ajax/
 ---

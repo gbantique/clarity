@@ -11,6 +11,8 @@ tags:
   - MicroPython tutorials
   - oled micropython
   - ssd1306 library
+series:
+  - ESP32 MicroPython
 title: '010 - ESP32 MicroPython: 0.96 OLED in MicroPython'
 url: /2020/09/30/010-esp32-micropython-0-96-oled-in-micropython/
 ---

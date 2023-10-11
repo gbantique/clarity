@@ -10,6 +10,8 @@ tags:
   - attiny85 projects
   - digispark attiny85
   - how to get started with attiny85
+series:
+  - My Arduino Exploration
 title: How to Get Started with ATTiny85 in Arduino IDE
 url: /2020/10/22/how-to-get-started-with-attiny85-in-arduino-ide/
 ---

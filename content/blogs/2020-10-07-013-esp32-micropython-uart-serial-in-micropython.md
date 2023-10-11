@@ -9,6 +9,8 @@ tags:
   - micropython serial
   - MicroPython tutorials
   - micropython uart
+series:
+  - ESP32 MicroPython
 title: '013 - ESP32 MicroPython: UART Serial in MicroPython'
 url: /2020/10/07/013-esp32-micropython-uart-serial-in-micropython/
 ---

@@ -7,6 +7,8 @@ date: '2020-09-27T19:28:00+08:00'
 tags:
   - esp32 micropython
   - Micropython esp32
+series:
+  - ESP32 MicroPython
 title: '009 - ESP32 MicroPython: Non-blocking Delays and Multithreading | Multitasking'
 url: /2020/09/27/009-esp32-micropython-non-blocking-delays-and-multithreading-multitasking/
 ---

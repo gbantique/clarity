@@ -13,6 +13,8 @@ tags:
   - rest api micropython
   - RESTful APIs in MicroPython
   - urequest micropython
+series:
+  - ESP32 MicroPython
 title: '018 - ESP32 MicroPython: Thingspeak | RESTful APIs'
 url: /2020/11/13/018-esp32-micropython-thingspeak-restful-apis/
 ---

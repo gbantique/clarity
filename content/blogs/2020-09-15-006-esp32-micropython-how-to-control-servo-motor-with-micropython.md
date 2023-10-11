@@ -7,6 +7,8 @@ date: '2020-09-15T15:16:00+08:00'
 tags:
   - esp32 servo
   - micropython servo
+series:
+  - ESP32 MicroPython
 title: '006 - ESP32 MicroPython: How to control servo motor with MicroPython'
 url: /2020/09/15/006-esp32-micropython-how-to-control-servo-motor-with-micropython/
 ---

@@ -4,6 +4,8 @@ categories:
   - ESP32
   - MicroPython
 date: '2020-09-09T08:48:00+08:00'
+series:
+  - ESP32 MicroPython
 title: '003 - ESP32 MicroPython: General Purpose Input Output | GPIO Pins'
 url: /2020/09/09/003-esp32-micropython-general-purpose-input-output-gpio-pins/
 ---

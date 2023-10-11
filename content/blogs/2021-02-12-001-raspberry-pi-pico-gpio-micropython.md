@@ -12,6 +12,8 @@ tags:
   - raspberry pi pico gpio
   - rp pico
   - rpi pico
+series:
+  - Raspberry Pi Pico MicroPython
 title: '001 - Raspberry Pi Pico: GPIO | MicroPython'
 url: /2021/02/12/001-raspberry-pi-pico-gpio-micropython/
 ---

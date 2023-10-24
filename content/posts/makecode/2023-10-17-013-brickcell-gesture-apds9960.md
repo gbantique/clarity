@@ -32,7 +32,7 @@ Let's explore how to connect the Gesture Sensor module to a micro:bit microcontr
 
 ## **Software Instruction**
 
-Now, let's start into programming the micro:bit to utilize the Rotary Encoder module.
+Now, let's start into programming the micro:bit to utilize the Gesture Sensor module.
 
 1. Login to [https://makecode.microbit.org/](https://makecode.microbit.org/) using your Microsoft account.
 2. Create a new project by clicking the "New Project" button. You may name it anything you want, I suggest to name it with descriptive name such as "gesture-apds9960-test".

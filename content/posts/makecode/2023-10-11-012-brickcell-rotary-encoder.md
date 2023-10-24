@@ -7,13 +7,12 @@ series:
 categories:
   - MakeCode
   - microbit
-date: '2023-10-11T18:30:00+08:00'
+date: "2023-10-11T18:30:00+08:00"
 tags:
   - MakeCode
   - microbit
   - rotary encoder
 ---
-
 
 ## **Introduction**
 
@@ -22,12 +21,14 @@ A rotary encoder is an electromechanical device used to convert the angular posi
 The primary difference between absolute and incremental rotary encoders lies in how they represent and communicate the position or rotation information:
 
 1. Absolute Rotary Encoder:
+
 - Absolute encoders provide a unique digital code for each possible position in a full 360-degree rotation.
 - They can directly indicate the exact position without the need for any additional reference point.
 - When power is applied or when queried, they immediately report the absolute position.
 - They are often used in applications where knowing the exact position is critical, such as in CNC machines or robotic arms.
 
 2. Incremental Rotary Encoder:
+
 - Incremental encoders generate pulse signals as the shaft rotates, and these pulses are counted to determine the relative position and direction of rotation.
 - They do not provide information about the absolute position without a reference point (a starting position or "home" position).
 - Incremental encoders are typically used in applications where relative movement or changes in position are more important than knowing the absolute position. For example, they are common in speed and distance measurements in vehicles.
@@ -57,22 +58,22 @@ Now, let's start into programming the micro:bit to utilize the Rotary Encoder mo
 
 ```ts
 Brickcell.onPress(function () {
-    count = 0
-    serial.writeLine("" + (count))
-})
+  count = 0;
+  serial.writeLine("" + count);
+});
 Brickcell.onRotate(RotationDirection.Right, function () {
-    count += 1
-    serial.writeLine("" + (count))
-})
+  count += 1;
+  serial.writeLine("" + count);
+});
 Brickcell.onRotate(RotationDirection.Left, function () {
-    count += -1
-    serial.writeLine("" + (count))
-})
-let count = 0
-Brickcell.initRotary(DigitalPin.P0, DigitalPin.P1, DigitalPin.P2)
-serial.setBaudRate(BaudRate.BaudRate115200)
-count = 0
-serial.writeLine("" + (count))
+  count += -1;
+  serial.writeLine("" + count);
+});
+let count = 0;
+Brickcell.initRotary(DigitalPin.P0, DigitalPin.P1, DigitalPin.P2);
+serial.setBaudRate(BaudRate.BaudRate115200);
+count = 0;
+serial.writeLine("" + count);
 ```
 
 7. Open a Serial Monitor such as Termite terminal app [https://www.compuphase.com/software_termite.htm/](https://www.compuphase.com/software_termite.htm/). Set the baud rate to 115200 bps.
@@ -86,7 +87,7 @@ serial.writeLine("" + (count))
 ## **Expected Result**
 
 If you carefully follow the provided instruction above, you should be able to view a counter value that has the following characteristics:
+
 - increments by 1 everytime the rotary encoder is rotated to the right (clockwise rotation).
 - decrements by 1 everytime the rotary encoder is rotated to the left (counter-clockwise rotation).
 - resets to 0 everytime the rotary main shaft is push or press.
-

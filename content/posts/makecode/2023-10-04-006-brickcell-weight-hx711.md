@@ -63,3 +63,24 @@ basic.forever(function () {
 
 If you carefully follow the provided instruction above, you should be able to view the measured weight in milligrams on the serial terminal every 1000 milliseconds.
 
+---
+If you want to used the LCD:
+1. Add the extension of LCD and the Weight Sensor from the following:
+   [https://github.com/gbantique/brickcell-lcd-i2c/](https://github.com/gbantique/brickcell-lcd-i2c/)
+   and
+   [https://github.com/gbantique/brickcell-weight-hx711/](https://github.com/gbantique/brickcell-weight-hx711/)
+2. Copy and paste the following code:
+```ts
+Brickcell.init(0);
+Brickcell.initHX711(DigitalPin.P0, DigitalPin.P1);
+Brickcell.set_multiplier(423);
+basic.forever(function () {
+    Brickcell.ShowString(Brickcell.readWeight(), 0, 0);
+    basic.pause(1000);
+})
+```
+
+---
+For calibration:
+Adjust number "423" in the Brickell.set_multiplier(423) until you get accurate readings.
+

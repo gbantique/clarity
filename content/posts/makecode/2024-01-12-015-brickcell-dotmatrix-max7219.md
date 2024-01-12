@@ -76,9 +76,9 @@ basic.forever(function () {
 
 **Or you make a copy of my created project in your MakeCode workspace.**
 
-<div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_b9mEhV9HePa6" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:S88323-04917-57323-26509" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
-[https://makecode.microbit.org/_b9mEhV9HePa6/](https://makecode.microbit.org/_b9mEhV9HePa6/)
+[https://makecode.microbit.org/S88323-04917-57323-26509/](https://makecode.microbit.org/S88323-04917-57323-26509/)
 
 ## **Expected Result**
 
